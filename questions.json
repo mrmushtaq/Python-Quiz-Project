@@ -1,0 +1,83 @@
+{
+    "C++": [
+        {
+            "question": "How do you insert COMMENTS in C++ code?",
+            "options": ["//", "/", "#", "All of These"],
+            "answer": "//"
+        },
+        {
+            "question": "Which data type is used to create a variable that should store text?",
+            "options": ["String", "string", "str", "myString"],
+            "answer": "string"
+        },
+        {
+            "question": "How do you create a variable with the numeric value 5?",
+            "options": ["double d = 5", "d = 5", "int i = 5", "float f = 5"],
+            "answer": "int i = 5"
+        },
+        {
+            "question": "Which method can be used to find the length of a string?",
+            "options": ["len()", "getLength()", "length", "length()"],
+            "answer": "length()"
+        },
+        {
+            "question": "Which operator can be used to compare two values?",
+            "options": ["=", "==", ">", "<"],
+            "answer": "=="
+        }
+    ],
+    "Java": [
+        {
+            "question": "Which method can be used to return a string in upper case letters in Java?",
+            "options": ["Tuc()", "upperCase()", "toUpper()", "upper()"],
+            "answer": "upperCase()"
+        },
+        {
+            "question": "To declare an array in Java, define the variable type with:",
+            "options": ["[]", "{}", "()", "None"],
+            "answer": "[]"
+        },
+        {
+            "question": "What is the purpose of the final keyword in Java?",
+            "options": ["To create constants", "To prevent inheritance", "Both a and b", "None of the above"],
+            "answer": "Both a and b"
+        },
+        {
+            "question": "Can a try block exist without a catch block?",
+            "options": ["Yes, if there's a finally block", "No", "Yes always", "None of the Above"],
+            "answer": "Yes, if there's a finally block"
+        },
+        {
+            "question": "Which keyword is used to prevent a class from being inherited?",
+            "options": ["abstract", "static", "final","extends"],
+            "answer": "final"
+        }
+    ],
+    "Python": [
+        {
+            "question": "Which data type is mutable in Python?",
+            "options": ["list", "tupple", "str", "int"],
+            "answer": "list"
+        },
+        {
+            "question": "What is the output of print(type([]))?",
+            "options": ["<class 'list'>", "<class 'tuple'>", "<class 'dict'>", "<class 'set'>"],
+            "answer": "<class 'list'>"
+        },
+        {
+            "question": "What does the is operator check?",
+            "options": ["Equality of values", "Object identity", "Data type", "None"],
+            "answer": "Object identity"
+        },
+        {
+            "question": "What is the default return value of function that doesn’t explicitly return anything?",
+            "options": ["0", "NULL", "NONE", "False"],
+            "answer": "NONE"
+        },
+        {
+            "question": "Which of the following is used to handle exceptions in Python?",
+            "options": ["try-catch", "try-except", "if-else", "catch-throw"],
+            "answer": "try-except"
+        }
+    ]
+}
